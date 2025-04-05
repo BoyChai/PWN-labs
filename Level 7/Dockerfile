@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:16.04
 
 # 制作者信息
 LABEL auther_template="CTF-Archives"
